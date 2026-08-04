@@ -2,7 +2,7 @@
 
 Personal academic homepage for PhD application and research portfolio.
 
-Live at: https://yangbinbin.github.io/ (after GitHub Pages is enabled)
+Live at: https://yangbinbin.dpdns.org/
 
 ## Structure
 
